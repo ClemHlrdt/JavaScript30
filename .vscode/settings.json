@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "/Users/clement/anaconda3/bin/python"
+    "python.pythonPath": "/Users/clement/anaconda3/bin/python",
+    "cSpell.ignoreWords": [
+        "kait"
+    ]
 }
